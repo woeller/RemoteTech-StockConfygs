@@ -1,1 +1,1 @@
-# RemoteTech-StockConfygs
+# RemoteTech-StockConfigs
