@@ -1,5 +1,5 @@
 {
-    "spec_version" : 1.0.1,
+    "spec_version" : v1.0.1,
     "identifier"   : "RemoteTechStockConfigs",
     "abstract"     : "Adds ground stations compatible with Remote Tech in the locations of the stock dishes",
     "$kref"        : "#/ckan/github/woeller/RemoteTech-StockConfigs",
